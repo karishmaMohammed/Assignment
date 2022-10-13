@@ -1,0 +1,16 @@
+.registration-form{
+    width: 800px;
+    margin: 10px auto;
+    background-color: rgb(219, 204, 204);
+    border-radius: 15px;
+    font-weight: 10px;
+}
+/*.valid-feedback, .invalid-feedback{
+    display: block;
+}*/
+body{
+    background: whitesmoke;
+}
+.btn {
+    border-radius: 20px;
+}
